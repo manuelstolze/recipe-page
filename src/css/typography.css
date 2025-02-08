@@ -20,7 +20,7 @@ h2 {
     margin-top: 12px;
     font-weight: 400;
     font-family: 'Young Serif', serif;
-    color: var(--rose-800);
+    color: var(--brown);
 }
 
 .bold {
@@ -45,13 +45,13 @@ ul li {
 }
 
 ul li:before {
-    color: var(--rose-800);
+    color: var(--brown);
     content: "■";
     margin-right: 15px;
 }
 
 ol li::marker {
-    color: var(--rose-800);
+    color: var(--brown);
     margin-right: 15px;
 }
 
@@ -81,7 +81,7 @@ td {
     width: 50%;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    color: var(--rose-800);
+    color: var(--brown);
     font-weight: 700;
 
 }
