@@ -57,6 +57,8 @@ ol li::marker {
 
 ol li p {
     margin-left: 1rem;
+    margin-top: .750rem;
+    margin-bottom: .750rem;
 }
 
 table {
